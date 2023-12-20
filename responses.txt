@@ -3,3 +3,4 @@ Name:akshata,Email:akshatakrl2003@gmail.com,Preferred_teaching:offline
 Name:akshata,Email:akshatakrl2003@gmail.com,Preferred_teaching:online
 Name:akshata,Email:akshatakrl2003@gmail.com,Preferred_teaching:online
 Name:akshata,Email:akshatakrl2003@gmail.com,Preferred_teaching:online
+Name:akshay,Email:akshay@gmail.com,Preferred_teaching:online
